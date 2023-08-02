@@ -1,5 +1,5 @@
 # cholesky-decomposition
-This project is Cholesky decomposition and solving the system of equations by Cholesky decomposition
+This project is Cholesky decomposition with python and solving the system of equations by Cholesky decomposition
 
 # How it works ?
 1. First, the program asks you to specify the number of rows and columns of the matrix
